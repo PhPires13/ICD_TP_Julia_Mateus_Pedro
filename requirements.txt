@@ -1,3 +1,4 @@
+unidecode
 matplotlib
 pandas
 seaborn
